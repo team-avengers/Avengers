@@ -2,191 +2,89 @@
 <title>[COLOR darkgreen]Online[/COLOR] TV1</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch001.smil/chunklist_b974000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] TV2</title>
 <link>http://rtm-live.glueapi.io/smil:ch002.smil/chunklist_b1064000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR green]New[/COLOR] TV3</title>
-<link>http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master.m3u8|X-Forwarded-For=42.154.55.155</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] TV3</title>
 <link>http://www.layarku.tv/media/tv3web6.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR yellow]Soon[/COLOR] NTV7</title>
-<link>http://ntv7iossecure-i.akamaihd.net/hls/live/225716/ios/ntv7ios_sp/master0.m3u8&amp;plugin=jwplayer-3.8.0.0|X-Forwarded-For=42.154.55.155&amp;Referer=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR red]Offline[/COLOR] NTV7</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;maxbitrate=1264000&amp;url=$doregex[encodedurl]</link>
-<regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m?hdnea=$doregex[get-token]&amp;hdcore=3.8.0&amp;plugin=jwplayer-3.8.0.0')</expres>
-    <page></page>
-</regex>
-<regex>
-      <name>get-token</name>
-      <expres>(.*)<expres>
-      <page>http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=c0aGNmeDqMkuwBzt5byiz-T1dCeMA7sB&amp;video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt</page>
-      <referer></referer>
-</regex>
+<link>http://www.layarku.tv/media/ntv7m.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR red]Offline[/COLOR] 8TV</title>
-<link>http://8tviossecure-i.akamaihd.net/hls/live/225717/ios/8tvios_sp/master.m3u8&amp;plugin=jwplayer-3.8.0.0|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0&amp;X-Forwarded-For=42.154.55.155&amp;Referer=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
+<link>http://www.layarku.tv/media/8tvm.m3u8|X-Forwarded-For=42.154.55.155</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR yellow]Soon[/COLOR] TV9</title>
-<link>http://tv9iossecure-i.akamaihd.net/hls/live/225718/ios/tv9ios_sp/master.m3u8&amp;plugin=jwplayer-3.8.0.0|user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0&amp;X-Forwarded-For=42.154.55.155</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] TV9</title>
 <link>http://www.layarku.tv/media/tv9web6.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] AL-HIJRAH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/manifest.f4m</link>
+<link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
-http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
+
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] ASTRO RIA</title>
 <link>http://www.layarku.tv/media/riaweb6.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ria_zps6zrje2dc.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR red]Offline[/COLOR] ASTRO WARNA</title>
-<link>http://www.layarku.tv/media/warna6v.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_warna_zpstzts3reb.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR red]Offline[/COLOR] ASTRO PRIMA</title>
-<link>http://www.layarku.tv/media/priweb6.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_prima_zps3xru535m.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR red]Offline[/COLOR] ASTRO OASIS</title>
-<link>http://www.layarku.tv/media/oasweb6.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_oasis_zpsr40ug54q.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] TVi</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch003/chunklist_b620000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] MUZIK AKTIF</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch004.smil/chunklist_b620000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] 1 NEWS</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch006.smil/chunklist_b620000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] RTM PARLIMEN</title>
 <link>http://rtm-live.glueapi.io/smil:rtm-ch007.smil/chunklist_b620000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] MARA TV</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] BERNAMA TV</title>
 <link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] ASTRO AWANI</title>
 <link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
 </item>
 
-item>
-<title>[COLOR red]Offline[/COLOR] ASTRO ARENA</title>
-<link>http://www.layarku.tv/media/areweb6.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_arena_zpsyciworbm.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]Offline[/COLOR] AKSI SUKAN</title>
-<link>http://rtm-live.glueapi.io/smil:rtm-ch008.smil/chunklist_w431467486_b620000_sleng.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]Offline[/COLOR] LIGA SUPER MALAYSIA (sumber: Tonton)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://my2liveflash-lh.akamaihd.net/z/my2liveflash_my@30545/manifest.f4m?hdcore=2.10.3&amp;g=LWDJMNJWQIGA&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/lsm_zpsu2oawprl.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]Offline[/COLOR] PIALA FA MALAYSIA (sumber: Tonton)</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/pfa_zpsjqybdq0u.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red]Offline[/COLOR] PIALA AFC (sumber: Tonton)</title>
-<link>.</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/afc_zpsqgkrouoo.png</thumbnail>
-<fanart>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fanart_zpsx50s9aa1.jpg</fanart>
-</item>
