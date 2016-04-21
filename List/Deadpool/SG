@@ -1,0 +1,90 @@
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CHANNEL 5</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel 5.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel5_zpslpt6pjmb.png</thumbnail>
+<fanart></fanart>
+</item> 
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CHANNEL 8</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel 8.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+        <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel8_zpsv6hcf98c.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] CHANNEL U</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Channel U.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channelu_zpshu6beqce.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NEWSASIA</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>NewsAsia.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_newsasia_zpsfuehs6hf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] OKTO</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Okto.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_okto_zpsmpvovqan.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SURIA</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Suria.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] VASANTHAM</title>
+<link>$doregex[m3u8]|X-Forwarded-For=203.208.224.155</link>
+<regex>
+	<name>m3u8</name>
+	<expres>Vasantham.*\n.*url": "(.*?)",</expres>
+	<page>http://goo.gl/uQhZSa</page>
+  <referer>http://goo.gl/uQhZSa</referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightgreen]Last Update: Apr 21, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
