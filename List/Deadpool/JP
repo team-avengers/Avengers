@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+<title>[COLOR orange]Some channel requires VaughnLive Addon Installed[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] FUJI TV</title>
+<vaughn>sherming7777</vaughn>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/fujitv_zpsxsda3x8j.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] KANSAI TV</title>
+<link>.</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/kansaitv_zpsjj6qbmrv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NIPPON TV</title>
+<vaughn>sherming5555</vaughn>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nippontv_zpsbegl1pxz.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NHK</title>
+<vaughn>sherming0000</vaughn>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/nhk_zpskmnsgrfb.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NHK WORLD</title>
+<link>http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/nhkworld_zpscp7xt2xv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] MBS</title>
+<link>.</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/mbstv_zpsx6gtxede.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TBS</title>
+<vaughn>sherming6666</vaughn>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tbs_zpsqgaktdot.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TV ASAHI</title>
+<vaughn>sherming4444</vaughn>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvasahi_zpskh1tkgz5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] TV TOKYO</title>
+<vaughn>sherming3333</vaughn>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/tvtokyo_zps6re9vdno.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightgreen]Last Update: Apr 21, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
