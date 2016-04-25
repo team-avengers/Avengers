@@ -1,0 +1,84 @@
+<item>
+<title>[COLOR red]Offline[/COLOR] COLOR TV</title>
+<link>http://zeeapp-lh.akamaihd.net/i/colorsuk_1@140317/index_864_av-p.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/colorstv_zpspjxlvmyq.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NDTV INDIA</title>
+<link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtvindialive.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ndtv_zps65wommel.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NDTV 24X7</title>
+<link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ndtv_zps65wommel.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] NDTV PRIME</title>
+<link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ndtv_zps65wommel.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE BOLLYWOOD</title>
+<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeebollywood/chunklist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE CINEMA</title>
+<link>http://zeeapp-lh.akamaihd.net/i/zeecinemauk_1@140345/index_864_av-p.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE TV</title>
+<link>http://zeeapp-lh.akamaihd.net/i/zeetvuk_1@140491/index_864_av-p.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE TAMIL</title>
+<link>http://185.59.222.89:1935/cdn/zeetamilhd/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE CLASSIC</title>
+<link>http://zeefamily2-i.akamaihd.net/hls/live/231616/zeeclassicts/chunklist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE LAMHE</title>
+<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeelamhe/chunklist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE SMILE</title>
+<link>http://zeefamily-i.akamaihd.net/hls/live/227854/zeesmile/chunklist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE NEWS</title>
+<link>http://zeeapp-lh.akamaihd.net/i/zeenews_1@336222/index_500_av-p.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] ZEE BUSINESS</title>
+<link>http://zeeapp-lh.akamaihd.net/i/zeebusiness_1@331483/index_500_av-p.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/Zee-tv-logo_zps4qntfqef.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightgreen]Last Update: Apr 25, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
