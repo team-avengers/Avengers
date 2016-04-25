@@ -12,7 +12,7 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] SEVEN</title>
-<link>$doregex[get-m3u8]|X-Forwarded-For=203.164.47.122</link>
+<link>$doregex[get-m3u8]|X-Forwarded-For=14.137.213.255</link>
 <regex>
 	<name>get-m3u8</name>
 	<expres>"FLVURL":"(.*?)"<expres>
@@ -25,7 +25,7 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] 7TWO</title>
-<link>$doregex[get-m3u8]|X-Forwarded-For=203.164.47.122</link>
+<link>$doregex[get-m3u8]|X-Forwarded-For=14.137.213.255</link>
 <regex>
 	<name>get-m3u8</name>
 	<expres>"FLVURL":"(.*?)"<expres>
@@ -38,7 +38,7 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] 7MATE</title>
-<link>$doregex[get-m3u8]|X-Forwarded-For=203.164.47.122</link>
+<link>$doregex[get-m3u8]|X-Forwarded-For=14.137.213.255</link>
 <regex>
 	<name>get-m3u8</name>
 	<expres>"FLVURL":"(.*?)"<expres>
@@ -51,7 +51,7 @@
 
 <item>
 <title>[COLOR darkgreen]Online[/COLOR] 7FLIX</title>
-<link>$doregex[get-m3u8]|X-Forwarded-For=203.164.47.122</link>
+<link>$doregex[get-m3u8]|X-Forwarded-For=14.137.213.255</link>
 <regex>
 	<name>get-m3u8</name>
 	<expres>"FLVURL":"(.*?)"<expres>
@@ -63,7 +63,7 @@
 </item>
 
 <item>
-<title>[COLOR red]Offline[/COLOR] NINE</title>
+<title>[COLOR darkgreen]Online[/COLOR] NINE</title>
 <link>https://9nowlivehls-i.akamaihd.net/hls/live/226645/ch9perprd/master.m3u8|X-Forwarded-For=203.164.47.122</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/9_zpsiex3yoka.png</thumbnail>
 </item>
