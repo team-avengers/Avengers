@@ -1,4 +1,10 @@
 <item>
+<title>[COLOR orange]Some channel requires f4mTester Addon Installed[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR darkgreen]Online[/COLOR] ANTV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/mpi7pjqx1esapruf/antv2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
