@@ -1,0 +1,75 @@
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] ABC NEWS 24</title>
+<link>http://www.abc.net.au/res/streaming/video/hls/news24.m3u8|X-Forwarded-For=203.164.47.122</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/abcnews_zps5dxg2syf.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] AUSTRALIA PLUS</title>
+<link>http://118.97.183.222:1935/discover/aplus/chunklist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/SukanTV/australiaplus_zpsp9mguubj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] SEVEN</title>
+<link>$doregex[get-m3u8]|X-Forwarded-For=203.164.47.122</link>
+<regex>
+	<name>get-m3u8</name>
+	<expres>"FLVURL":"(.*?)"<expres>
+	<page>https://www.7live.com.au/bc/media/29557833</page>
+	<cookieJar></cookieJar>
+	<referer></referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7_zpsyqrpevyo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] 7TWO</title>
+<link>$doregex[get-m3u8]|X-Forwarded-For=203.164.47.122</link>
+<regex>
+	<name>get-m3u8</name>
+	<expres>"FLVURL":"(.*?)"<expres>
+	<page>https://www.7live.com.au/bc/media/29565623</page>
+	<cookieJar></cookieJar>
+	<referer></referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7Two_zpscvxqlyd5.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] 7MATE</title>
+<link>$doregex[get-m3u8]|X-Forwarded-For=203.164.47.122</link>
+<regex>
+	<name>get-m3u8</name>
+	<expres>"FLVURL":"(.*?)"<expres>
+	<page>https://www.7live.com.au/bc/media/29565353</page>
+	<cookieJar></cookieJar>
+	<referer></referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7mate_zps6wiygiuj.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR darkgreen]Online[/COLOR] 7FLIX</title>
+<link>$doregex[get-m3u8]|X-Forwarded-For=203.164.47.122</link>
+<regex>
+	<name>get-m3u8</name>
+	<expres>"FLVURL":"(.*?)"<expres>
+	<page>https://www.7live.com.au/bc/media/30823916</page>
+	<cookieJar></cookieJar>
+	<referer></referer>
+</regex>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/7flix_zpsvq4mkx2s.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]Offline[/COLOR] NINE</title>
+<link>https://9nowlivehls-i.akamaihd.net/hls/live/226645/ch9perprd/master.m3u8|X-Forwarded-For=203.164.47.122</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/9_zpsiex3yoka.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lightgreen]Last Update: Apr 25, 2016[/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
