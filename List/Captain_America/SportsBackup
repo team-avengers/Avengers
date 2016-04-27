@@ -211,7 +211,7 @@
 <page>http://www.liveonlinetv247.info/embed/skysports1.php?width=650&amp;height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -223,7 +223,7 @@
 <page>http://www.liveonlinetv247.info/embed/skysports2.php?width=650&amp;height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -235,7 +235,7 @@
 <page>http://www.liveonlinetv247.info/embed/skysports3.php?width=650&amp;height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -247,7 +247,7 @@
 <page>http://www.liveonlinetv247.info/embed/skysports4.php?width=650&amp;height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
 <item>
@@ -259,5 +259,5 @@
 <page>http://www.liveonlinetv247.info/embed/skysports5.php?width=650&amp;height=480</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 </regex>
-<thumbnail>http://www.bluebellcardiff.co.uk/Sky%20sports%20HD%20logo.png</thumbnail>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
