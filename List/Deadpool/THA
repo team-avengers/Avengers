@@ -209,7 +209,7 @@
 </item> 
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] MONEY CHANNEL</title>
+<title>[COLOR red]Offline[/COLOR] MONEY CHANNEL</title>
 <link>http://202.170.127.201/mnychlive.isml/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_moneychannel_zps2hfhcrwy.png</thumbnail>
 </item> 
@@ -263,13 +263,13 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] SABAIDEE TV</title>
+<title>[COLOR red]Offline[/COLOR] SABAIDEE TV</title>
 <link>rtsp://202.142.207.150:1935/live/livesabaidee1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_sabaideetv_zpsxcfcifkj.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] SMMTV</title>
+<title>[COLOR red]Offline[/COLOR] SMMTV</title>
 <link>http://edge2-bkk.3bb.co.th:1935/smmtv_livestream/smmtv.stream_live1/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_smmtv_zpsiybq4fi2.png</thumbnail>
 </item> 
@@ -341,13 +341,13 @@
 </item>
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] VLIKE CHANNEL</title>
+<title>[COLOR red]Offline[/COLOR] VLIKE CHANNEL</title>
 <link>http://vlike.live.co.th:1935/vlike/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_vlikechannel_zpsxecvhsos.png</thumbnail>
 </item> 
 
 <item>
-<title>[COLOR darkgreen]Online[/COLOR] VOICE TV</title>
+<title>[COLOR red]Offline[/COLOR] VOICE TV</title>
 <link>http://livestream.voicetv.co.th:1935/live-edge/smil:voicetv_all.smil/playlist.m3u8?DVR</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_voicetv_zpsgoqixurz.png</thumbnail>
 </item>
