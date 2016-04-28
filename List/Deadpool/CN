@@ -17,6 +17,12 @@
 </item>
 
 <item>
+<title>[COLOR darkgreen]Online[/COLOR] HKTV (HONG KONG)</title>
+<link>http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&amp;udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&amp;uid=1&amp;vid=1&amp;mxres=720&amp;s=f28849d9f4c57e9e93a5e77cc87c7338</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/HKTV_zpsqkdtcw2l.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR darkgreen]Online[/COLOR] SHANDONG TV</title>
 <link>http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/shandongtv_zpseumd12yh.png</thumbnail>
@@ -29,13 +35,19 @@
 </item>
 
 <item>
+<title>[COLOR darkgreen]Online[/COLOR] TVB8 (HONG KONG)</title>
+<link>http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8|user-agent=|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/TVB8_zpsbm8rfkib.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR darkgreen]Online[/COLOR] ZHEJIANG TV</title>
 <link>http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/zhejiangtv_zpspygzblqy.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lightgreen]Last Update: Apr 21, 2016[/COLOR]</title>
+<title>[COLOR lightgreen]Last Update: Apr 28, 2016[/COLOR]</title>
 <link>http://ignoreme</link>
 <thumbnail></thumbnail>
 </item>
