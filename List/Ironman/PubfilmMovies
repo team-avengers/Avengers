@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<item>
+<title>[COLOR red][B]PUB-FILM[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[makelist.param2]</title>
+               <link>$doregex[makelist2]</link>
+               <thumbnail>http://pubfilm.com/wp-content/themes/sahifa/images/logo.png</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[mega-links-head"  href="\/tag\/(.*?)">(.*?)<\/a]]><expres>
+      <page>http://pubfilm.com/</page>
+      <cookieJar></cookieJar>
+</regex>>
+
+<regex>
+      <name>makelist2</name>
+      <listrepeat><![CDATA[
+               <title>Page [makelist2.param1]</title>
+               <link>$doregex[makelist3]</link>
+               <thumbnail>http://pubfilm.com/wp-content/themes/sahifa/images/logo.png</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[>([1-9])<\/(?:.*?>)<a]]></expres>
+      <page>http://pubfilm.com/tag/[makelist.param1]</page>
+</regex>
+
+<regex>
+      <name>makelist3</name>
+      <listrepeat><![CDATA[
+               <title>[makelist3.param4] ([makelist3.param1] )</title>
+               <link>$doregex[finalURL]</link>
+               <thumbnail>[makelist3.param2]</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[f_tag">(.*?)<\/.*\n.*\n.*\n.*src="([^"]*)".*\n.*\n.*\n.*\n.*post-box-title"><a href="([^"]*)".*?>(.*?)<\/a]]></expres>
+      <page>http://pubfilm.com/tag/[makelist.param1]/page/[makelist2.param1]</page>
+</regex>
+
+<regex>
+    <name>finalURL</name>
+    <expres>$pyFunction: '$doregex[720]' if not '$doregex[720]'=='' else '$doregex[480]'</expres>
+    <page></page>
+</regex>
+<regex>
+      <name>720</name>
+      <expres>file":"([^"]+)","type":"mp4","label":"[6-7]<expres>
+      <page>$doregex[get-api]</page>
+      <referer>[makelist3.param3]</referer>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>480</name>
+      <expres>file":"([^"]+)","type":"mp4","label":"[4-5]<expres>
+      <page>$doregex[get-api]</page>
+      <referer>[makelist3.param3]</referer>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>get-api</name>
+      <expres>href=[",'](http.*\/api\/player\.php.*?)[",']<expres>
+      <page>[makelist3.param3]</page>
+      <referer>http://pubfilm.com/</referer>
+      <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pubfilm.com/wp-content/themes/sahifa/images/logo.png</thumbnail>
+</item>
+
+</items>
