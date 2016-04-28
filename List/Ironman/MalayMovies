@@ -1,4 +1,11 @@
 <item>
+<title> kipidapp (2016) </title>
+<link>http://streamin.to/embed-8ljeqwod4kes-728x410.html</link>
+<fanart>http://www.freemalaysiatoday.com/wp-content/uploads/2015/09/Kipidap-Abdul-Rani-Kulup.jpg</fanart>
+<thumbnail>https://rest.cinepapaya.com/stat/img/static-cp/cine/movie/kipidap-save-the-day-12297-poster-1457969395.jpg?w=250</thumbnail>
+</item>
+
+<item>
 <title>Munafik (2016) HD</title>
 <link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-1giij7wh5vac-640x360.html</link>
 <thumbnail>http://www.tontononline.net/wp-content/uploads/2016/01/Munafik-2016.jpg</thumbnail>
