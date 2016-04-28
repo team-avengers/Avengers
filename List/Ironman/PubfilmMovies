@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <item>
-<title>[COLOR red][B]PUB-FILM[/B][/COLOR]</title>
+<title>ALL MOVIES</title>
 <link>$doregex[makelist]</link>
 <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
                <title>[makelist.param2]</title>
                <link>$doregex[makelist2]</link>
-               <thumbnail>http://pubfilm.com/wp-content/themes/sahifa/images/logo.png</thumbnail>
+               <thumbnail>https://raw.githubusercontent.com/team-avengers/Avengers/master/Icons/MOVIES.png</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[mega-links-head"  href="\/tag\/(.*?)">(.*?)<\/a]]><expres>
       <page>http://pubfilm.com/</page>
@@ -20,7 +20,7 @@
       <listrepeat><![CDATA[
                <title>Page [makelist2.param1]</title>
                <link>$doregex[makelist3]</link>
-               <thumbnail>http://pubfilm.com/wp-content/themes/sahifa/images/logo.png</thumbnail>
+               <thumbnail>https://raw.githubusercontent.com/team-avengers/Avengers/master/Icons/MOVIES.png</thumbnail>
       ]]></listrepeat>
       <expres><![CDATA[>([1-9])<\/(?:.*?>)<a]]></expres>
       <page>http://pubfilm.com/tag/[makelist.param1]</page>
@@ -63,7 +63,7 @@
       <referer>http://pubfilm.com/</referer>
       <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://pubfilm.com/wp-content/themes/sahifa/images/logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/team-avengers/Avengers/master/Icons/MOVIES.png</thumbnail>
 </item>
 
 </items>
