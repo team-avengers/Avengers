@@ -133,7 +133,7 @@
 
 <item>
 <title>SKY SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/lyes/lyes/2964.tss&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/lyes/lyes/2964.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 </item>
 
