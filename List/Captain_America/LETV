@@ -1,6 +1,5 @@
 <item>
-<item>
-<title>http://www.mivo.com/#/live/sctv</title> 
+<title>2http://www.mivo.com/#/live/sctv</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=HLS&amp;url=$doregex[encodedurl]</link>
 
 <regex>
@@ -36,6 +35,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
  </item>
  
+ <item>
 <title>LETV 1</title>
 <link>http://live.g3proxy.lecloud.com/gslb?stream_id=yanboshi1_5000&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&amp;expect=1|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://st1.bgr.in/wp-content/uploads/2015/10/letv-logo.jpg</thumbnail>
