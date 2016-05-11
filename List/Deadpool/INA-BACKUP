@@ -33,7 +33,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -71,7 +70,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antaratv_zpslfe8wvho.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -109,7 +107,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -147,7 +144,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ctv_zpsuthdtkdg.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -185,7 +181,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daaitv_zpsa8jkixzp.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -223,7 +218,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_damaitv_zpszelmqznj.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -261,7 +255,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_dmctv_zpszpox8rrh.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -299,7 +292,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_elshintatv_zpswdybmaxs.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -337,7 +329,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_global_tv_zpsqptddjo9.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -375,7 +366,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -413,7 +403,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jaktv_zpsarehs1yc.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -451,7 +440,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jtv_zpspcztjwpe.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -489,7 +477,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_kompastv_zpspbla9f1l.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -527,7 +514,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbsindrama_zpshlkuj2w6.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -565,7 +551,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbskdrama_zpsee1focjf.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -603,7 +588,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_metro_tv_zpsfy2zhqxw.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -641,7 +625,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -679,7 +662,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mivotv_zpso5h9xwxy.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -717,7 +699,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nettv_zpskioucxna.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -755,7 +736,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ochannel_zpsh4arpcai.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -793,7 +773,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -831,7 +810,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -869,7 +847,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -907,7 +884,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -945,7 +921,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrinasional_zpsrpwt3w2f.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -983,7 +958,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrijakarta_zps9idoi7ph.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -1021,7 +995,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvribudaya_zps2xarzbez.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -1059,7 +1032,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvriolahraga_zpsrrux4aqc.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -1097,7 +1069,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_7_zpsn7frpupf.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -1135,7 +1106,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -1173,7 +1143,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvone_zps2ntt5ox4.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
 
 <item>
@@ -1211,5 +1180,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_uchannel_zpsvgykqd8s.png</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
