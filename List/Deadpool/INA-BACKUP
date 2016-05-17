@@ -18,7 +18,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  headers0 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
  url0= 'http://api.mivo.com/v4/web/channels'
  source0= requests.get(url0, headers=headers0)
- m3u8= re.findall('antv","dataUrl":"(.*?)"', source0.text)[0]
+ m3u8= re.findall('sctv".*\n.*dataUrl.+?(.*?m3u8)', source0.text)[0]
 
  headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Authorization': 'BY-TrgLgK0NMzXb_JB_81DfeOxK_SNH7'}
  url1= 'http://api.mivo.com/v4/web/channels/wms-auth'
