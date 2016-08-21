@@ -393,7 +393,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>GLOBAL TV SERVER 2</title>
-<link>http://tv.vidiostream.com/i/globaltv_1@137568/index_360_av-p.m3u8?sd=10&rebase=on</link>
+<link>$doregex[get-m3u8]</link>
+<regex>
+<name>get-m3u8</name>
+<expres>data-vjs-clip-hls-url="(.*)"</expres>
+<page>https://www.vidio.com/live/778-global-tv-stream</page>
+<referer>https://www.vidio.com/live/778-global-tv-stream</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_global_tv_zpsqptddjo9.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
@@ -479,9 +485,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>$doregex[get-m3u8]</link>
 <regex>
 <name>get-m3u8</name>
-<expres>data-clip-hls-url="(.*)"</expres>
-<page>https://www.vidio.com/live/205-indosiar-tv-stream/embed</page>
-<referer>http://www.indosiar.com/live</referer>
+<expres>data-vjs-clip-hls-url="(.*)"</expres>
+<page>https://www.vidio.com/live/205-indosiar-tv-stream</page>
+<referer>https://www.vidio.com/live/205-indosiar-tv-stream</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -923,7 +929,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>RCTI SERVER 2</title>
-<link>http://tv.vidiostream.com/i/rcti_1@137568/index_360_av-p.m3u8?sd=10&rebase=on</link>
+<link>$doregex[get-m3u8]</link>
+<regex>
+<name>get-m3u8</name>
+<expres>data-vjs-clip-hls-url="(.*)"</expres>
+<page>https://www.vidio.com/live/665-rcti-tv-stream</page>
+<referer>https://www.vidio.com/live/665-rcti-tv-stream</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 </item>
@@ -986,9 +998,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>$doregex[get-m3u8]</link>
 <regex>
 <name>get-m3u8</name>
-<expres>data-clip-hls-url="(.*)"</expres>
-<page>http://www.vidio.com/live/204-sctv-tv-stream/embed</page>
-<referer>http://www.sctv.co.id/live</referer>
+<expres>data-vjs-clip-hls-url="(.*)"</expres>
+<page>https://www.vidio.com/live/204-sctv-tv-stream</page>
+<referer>https://www.vidio.com/live/204-sctv-tv-stream</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -996,7 +1008,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <item>
 <title>SCTV SERVER 3</title>
-<link>http://tv.vidiostream.com/i/sctv_1@137582/index_360_av-p.m3u8?sd=10&amp;rebase=on</link>
+<link>http://tv.vidiostream.com/i/sctv_1@137582/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
