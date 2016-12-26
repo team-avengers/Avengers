@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-
-<title>[B]=== [COLOR red]LIVE ADR[/COLOR][COLOR cyan]IAN SPORTS[/COLOR] ===[/B]</title>
-<thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
-<fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
-<link>http://ignoreme</link>
-<externallink>plugin://plugin.video.adriansports/?url=.&mode=None</externallink>
-</item>
-
 <item>
-<title>[B]=== [COLOR magenta]ADRIAN [/COLOR][COLOR cyan]SPORTS[/COLOR] ===[/B]</title>
+<title>[B]=== [COLOR magenta]WORLD O[/COLOR][COLOR cyan]F SPORTS[/COLOR] ===[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
 <jsonrpc>plugin://plugin.video.adriansports/?url=sss&amp;mode=None&amp;name=AdrianSports</jsonrpc>
