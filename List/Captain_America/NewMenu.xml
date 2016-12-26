@@ -5,7 +5,23 @@
 <thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<externallink>http://tinyurl.com/zf7txb3</externallink>
+<externallink>plugin://plugin.video.adriansports/?url=.&mode=12</externallink>
+</item>
+
+<item>
+<title>[B]=== [COLOR magenta]ADRIAN [/COLOR][COLOR cyan]SPORTS5[/COLOR] ===[/B]</title>
+<link>ignorme</link>
+<premium>True</premium>
+<jsonrpc>plugin://plugin.video.adriansports/?url=.&amp;mode=12&amp;name=AdrianSports</jsonrpc>
+<thumbnail>https://s9.postimg.org/svifr9uyn/Q7a_S9g6_Y.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B]=== [COLOR magenta]LIVE SPO[/COLOR][COLOR cyan]RTS 365[/COLOR] ===[/B]</title>
+<link>ignorme</link>
+<premium>True</premium>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
+<thumbnail>https://s9.postimg.org/svifr9uyn/Q7a_S9g6_Y.jpg</thumbnail>
 </item>
 
 <item>
