@@ -166,30 +166,6 @@
 </item>
 
 <item>
-<title>[COLOR red]OFF: [COLOR turquoise]HI INDO!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/hiindo_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v3/mobile/channels/wms-auth?</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hiindo_zpszbjewwgm.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF: [COLOR turquoise]INI TV</title>
-<link>http://streaming.initv.net:1935/live/_definst_/Stream1/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_initv_zpslrigejxj.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF: [COLOR turquoise]INSPIRA TV</title>
-<link>http://video.inspira.tv:1935/inspiratv/live.sdp/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_inspiratv_zps4g1thpo0.png</thumbnail>
-</item>
-
-<item>
 <title>INDOSIAR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/indosiar2_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
@@ -481,18 +457,6 @@
 <referer>http://api.mivo.com/</referer>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red]OFF: [COLOR turquoise]THE INDONESIA CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/theindonesiachannel_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<regex>
-<name>tok</name>
-<expres>wmsAuthSign=(.*)</expres>
-<page>http://api.mivo.com/v3/mobile/channels/wms-auth?</page>
-<referer>http://api.mivo.com/</referer>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tictv_zpsglqai3sx.png</thumbnail>
 </item>
 
 <item>
