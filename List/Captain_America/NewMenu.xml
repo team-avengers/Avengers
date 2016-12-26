@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<item>
+
 <title>[B]=== [COLOR red]LIVE ADR[/COLOR][COLOR cyan]IAN SPORTS[/COLOR] ===[/B]</title>
 <thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -9,11 +9,11 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR magenta]ADRIAN [/COLOR][COLOR cyan]SPORTS5[/COLOR] ===[/B]</title>
+<title>[B]=== [COLOR magenta]ADRIAN [/COLOR][COLOR cyan]SPORTS[/COLOR] ===[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
-<jsonrpc>plugin://plugin.video.adriansports/?url=.&amp;mode=12&amp;name=AdrianSports</jsonrpc>
-<thumbnail>https://s9.postimg.org/svifr9uyn/Q7a_S9g6_Y.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.adriansports/?url=sss&amp;mode=12&amp;name=AdrianSports</jsonrpc>
+<thumbnail>http://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo-Stock-Vector-sports.jpg</thumbnail>
 </item>
 
 <item>
