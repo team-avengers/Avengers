@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B]=== [COLOR magenta]WORLD O[/COLOR][COLOR cyan]F SPORTS[/COLOR] ===[/B]</title>
+<title>[B]=== [COLOR red]WORLD O[/COLOR][COLOR cyan]F SPORTS[/COLOR] ===[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
 <jsonrpc>plugin://plugin.video.adriansports/?url=sss&amp;mode=None&amp;name=AdrianSports</jsonrpc>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR magenta]LIVE SPO[/COLOR][COLOR cyan]RTS 365[/COLOR] ===[/B]</title>
+<title>[B]=== [COLOR red]LIVE SPO[/COLOR][COLOR cyan]RTS 365[/COLOR] ===[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
