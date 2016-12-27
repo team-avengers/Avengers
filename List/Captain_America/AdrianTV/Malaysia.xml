@@ -1,48 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>A.AWANI</title>
-<link>http://tinyurl.com/zljgv2s|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s30.postimg.org/52deydqn5/image.jpg</thumbnail>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.pn</thumbnail>
-</item>
-
-<item>
-<title>A.AEC</title>
-<link>http://tinyurl.com/zpul57t|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s30.postimg.org/52deydqn5/image.jpg</thumbnail>
-<thumbnail>https://s29.postimg.org/f9n6lcenr/my_aec.pn</thumbnail>
-</item>
-
-<item>
-<title>A.AOD SERIES</title>
-<link>http://tinyurl.com/zeh6gam|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s30.postimg.org/52deydqn5/image.jpg</thumbnail>
-<thumbnail>https://s30.postimg.org/8xytbxoc1/ondemandseries.pn</thumbnail>
-</item>
-
-<item>
-<title>A.OASIS</title>
-<link>http://tinyurl.com/zluapkb|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s30.postimg.org/52deydqn5/image.jpg</thumbnail>
-<thumbnail>https://s23.postimg.org/7vvstb2t7/my_oasis.pn</thumbnail>
-</item>
-
-<item>
-<title>A.PRIMA</title>
-<link>http://tinyurl.com/gvbjbrk|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s30.postimg.org/52deydqn5/image.jpg</thumbnail>
-<thumbnail>https://s30.postimg.org/3tdn6mwvl/my_prima.pn</thumbnail>
-</item>
-
-<item>
-<title>A.SBS</title>
-<link>http://tinyurl.com/gnhdp27|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s30.postimg.org/52deydqn5/image.jpg</thumbnail>
-<thumbnail>https://s28.postimg.org/9n6hyhfbx/SBS.pn</thumbnail>
-</item>
-
-<item>
 <title>TV1</title>
  <link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10149</link>
   <regex>
@@ -284,4 +242,46 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <title>PIALA MALAYSIA - LIVE GAMES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://my1liveflash-lh.akamaihd.net/z/my1liveflash_my@30541/manifest.f4m?hdcore=2.10.3&amp;g=WIHBUVPTOBCK&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
 <thumbnail>https://s31.postimg.org/5c1299wzf/642bc95563639_5625446e19caf.jpg</thumbnail>
+</item>
+
+<item>
+<title>A.AWANI</title>
+<link>http://tinyurl.com/zljgv2s|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.pn</thumbnail>
+</item>
+
+<item>
+<title>A.AEC</title>
+<link>http://tinyurl.com/zpul57t|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
+<thumbnail>https://s29.postimg.org/f9n6lcenr/my_aec.pn</thumbnail>
+</item>
+
+<item>
+<title>A.AOD SERIES</title>
+<link>http://tinyurl.com/zeh6gam|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
+<thumbnail>https://s30.postimg.org/8xytbxoc1/ondemandseries.pn</thumbnail>
+</item>
+
+<item>
+<title>A.OASIS</title>
+<link>http://tinyurl.com/zluapkb|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
+<thumbnail>https://s23.postimg.org/7vvstb2t7/my_oasis.pn</thumbnail>
+</item>
+
+<item>
+<title>A.PRIMA</title>
+<link>http://tinyurl.com/gvbjbrk|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
+<thumbnail>https://s30.postimg.org/3tdn6mwvl/my_prima.pn</thumbnail>
+</item>
+
+<item>
+<title>A.SBS</title>
+<link>http://tinyurl.com/gnhdp27|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
+<thumbnail>https://s28.postimg.org/9n6hyhfbx/SBS.pn</thumbnail>
 </item>
