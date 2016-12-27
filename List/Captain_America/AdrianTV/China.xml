@@ -6,180 +6,181 @@
 
 <item>
 <title>CCTV-1</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdcctv01/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-2</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-2/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-2/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-3</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-3/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-3/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-4</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-4/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-4/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-5</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-5/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-5+</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdcctv05plus/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-6</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-6/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-6/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-7</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-7/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-7/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-8</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-8/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-8/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-9 NEWS</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-news/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-news/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-9</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-9/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-9/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-10</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-10/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-10/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-11</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-11/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-11/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-12</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-12/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-12/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-13</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-13/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-14</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-14/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-15</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/cctv-15/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CETV 1</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/jiaoyutv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jiaoyutv/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>DRAGON TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hddongfangstv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hddongfangstv/.m3u8</link>
 <thumbnail>https://s8.postimg.org/4rh56pyph/dragontv.png</thumbnail>
 </item>
 
 <item>
 <title>GUANGDONG TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdguangdongstv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdguangdongstv/.m3u8</link>
 <thumbnail>https://s8.postimg.org/a3x12ig5h/guangdongtv.png</thumbnail>
 </item>
 
 <item>
 <title>CIBN JIATING</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/jiatingjc/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jiatingjc/.m3u8</link>
 <thumbnail>https://s7.postimg.org/6ptjuj28r/cibn.png</thumbnail>
 </item>
 
 <item>
 <title>CIBN AI QING</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/aiqingxj/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/aiqingxj/.m3u8</link>
 <thumbnail>https://s7.postimg.org/6ptjuj28r/cibn.png</thumbnail>
 </item>
 
 <item>
 <title>CIBN DONG ZUO</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/dongzuody/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/dongzuody/.m3u8</link>
 <thumbnail>https://s7.postimg.org/6ptjuj28r/cibn.png</thumbnail>
 </item>
 
 <item>
 <title>HUNAN TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdhunanstv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdhunanstv/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/hunantv_zps73x44imk.png</thumbnail>
 </item>
 
 <item>
 <title>HUBEI TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdhubeistv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdhubeistv/.m3u8</link>
 <thumbnail>https://s7.postimg.org/4useo3bdn/hubeitv.png</thumbnail>
 </item>
 
 <item>
 <title>JIANGSU TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdjiangsustv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdjiangsustv/.m3u8</link>
 <thumbnail>https://s7.postimg.org/bac8ehwbf/jiangsutv.png</thumbnail>
 </item>
 
 <item>
 <title>SHANDONG TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdshandongstv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdshandongstv/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/shandongtv_zpseumd12yh.png</thumbnail>
 </item>
 
 <item>
 <title>SHENZHEN TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdshenzhenstv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdshenzhenstv/.m3u8</link>
 <thumbnail>https://s8.postimg.org/bvc7sfvfp/shenzhentv.png</thumbnail>
 </item>
 
 <item>
 <title>TIANJIN TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdtianjinstv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdtianjinstv/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tianjintv_zpsnjgrwxct.png</thumbnail>
 </item>
 
 <item>
 <title>ZHEJIANG TV</title>
-<link>http://218.203.106.12:5580/ysten-businessmobile/live/hdzhejiangstv/yst.m3u8</link>
+<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdzhejiangstv/.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/zhejiangtv_zpspygzblqy.png</thumbnail>
 </item>
+
