@@ -1,28 +1,4 @@
 <item>
-<title>AC1 CHINESE SERIES</title>
-<link>http://103.40.138.89:1935/live/ac1/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_ac1_zpsoilckren.png</thumbnail>
-</item> 
-
-<item>
-<title>AC2 KOREA FILM</title>
-<link>http://103.40.138.89:1935/live/ac2/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_ac2_zpscd0delot.png</thumbnail>
-</item> 
-
-<item>
-<title>AC3 THA-IND MOVIE</title>
-<link>http://103.40.138.89:1935/live/ac3/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_ac3_zpsuny64fun.png</thumbnail>
-</item> 
-
-<item>
-<title>AC4 HOLLYWOOD FILM</title>
-<link>http://103.40.138.89:1935/live/ac4/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_ac4_zpsmbyionvu.png</thumbnail>
-</item> 
-
-<item>
 <title>AMARIN TV</title>
 <link>http://112.121.152.34:80/stream/5195e80fe1ed0/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_amarintv_zpsw2ikvvp9.png</thumbnail>
@@ -42,25 +18,31 @@
 
 <item>
 <title>CHANNEL 2</title>
-<link>http://stream.rs.co.th/ch2-hi/index.m3u8</link>
+<link>http://111.223.36.2/teleplus_ch2.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv2_zpscvco603w.png</thumbnail>
 </item>
 
 <item>
+<title>CHANNEL 3</title>
+<link>http://111.223.36.2/teleplus_ch3.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv3_zpsdiqjkuii.png</thumbnail>
+</item>
+
+<item>
 <title>CHANNEL 5</title>
-<link>http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8</link>
+<link>http://111.223.36.2/teleplus_ch5.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tv5_zps3x0wyd6y.png</thumbnail>
 </item>
 
 <item>
 <title>CHANNEL 7</title>
-<link>http://rtmp.thaitv.co.th/live/thaitv.m3u8</link>
+<link>http://111.223.36.2/teleplus_ch7.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_channel7_zpsqeeq1pey.png</thumbnail>
 </item>
 
 <item>
 <title>CHANNEL 8</title>
-<link>http://stream.rs.co.th/ch8-hi/index.m3u8</link>
+<link>http://111.223.36.2/teleplus_ch8.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_channel8_zpsblu66c9m.png</thumbnail>
 </item>
 
@@ -71,70 +53,16 @@
 </item> 
 
 <item>
-<title>ESAN TV</title>
-<link>rtmp://103.40.138.89:1935/live/esan</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_esantv_zpsdfapwd0e.png</thumbnail>
-</item> 
-
-<item>
-<title>FIVE CHANNEL</title>
-<link>http://103.40.138.89:1935/live/five/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_fivechannel_zpsowi7ktid.png</thumbnail>
-</item>
-
-<item>
-<title>GOOD TV</title>
-<link>http://111.223.36.1/tp_nitipon_ch.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_goodtv_zpsm64tlrqc.png</thumbnail>
-</item> 
-
-<item>
 <title>MCOT</title>
-<link>http://49.231.20.64:8158/FreeTVChannel/StreamService/SD/MCOTHD/heve.m3u8</link>
+<link>http://lb-media.mcot.net:1935/9mcot_edge/9mcot.stream/chunklist_w899094540.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcothd_zpsbizgaxok.png</thumbnail>
 </item>
 
 <item>
 <title>MCOT KIDS & FAMILY</title>
-<link>http://49.231.20.66:8158/FreeTVChannel/StreamService/SD/MCOTKID/heve.m3u8</link>
+<link>http://lb-media.mcot.net:1935/mcotfamily_edge/mcotfamily.stream/chunklist_w1334709340.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcotfamily_zps3bwyr6fa.png</thumbnail>
 </item>
-
-<item>
-<title>MCOT 1</title>
-<link>http://lb-media.mcot.net:1935/mcot1_edge/mcot1.stream/chunklist_w9654280.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcot1_zpsvz7adnzb.png</thumbnail>
-</item>
-
-<item>
-<title>MCOT WORLD</title>
-<link>rtmp://lb-media.mcot.net:1935/mcotworld_edge/ playpath=mcotworld.stream swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.mcot.net/mcotworld</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mcotworld_zps1ksvh9gw.png</thumbnail>
-</item>
-
-<item>
-<title>MVTV FAMILY</title>
-<link>http://103.40.138.89:1935/live/mvfamilyhd/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mvtv_zpsrs1i5ejg.png</thumbnail>
-</item>
-
-<item>
-<title>MGTV</title>
-<link>http://103.40.138.89:1935/live/mgtv/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_mgtv_zps5e5poxoi.png</thumbnail>
-</item> 
-
-<item>
-<title>MAJOR CHANNEL ASIAN</title>
-<link>http://103.40.138.89:1935/live/majorasian/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_majorchannelasian_zpshfkwgl2y.png</thumbnail>
-</item> 
-
-<item>
-<title>MAJOR CHANNEL MIX</title>
-<link>http://103.40.138.89:1935/live/mixmajor/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_majorchannelmix_zpsxtjkiaaw.png</thumbnail>
-</item> 
 
 <item>
 <title>MAXAGRO TV</title>
@@ -143,38 +71,26 @@
 </item> 
 
 <item>
-<title>MODERN INDIA TV</title>
-<link>http://103.40.138.89:1935/live/modernindia/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_modernindiatv_zpsd51gjxyt.png</thumbnail>
-</item> 
-
-<item>
 <title>MONEY CHANNEL</title>
-<link>http://61.47.34.38/moneych/mnychlive.isml/manifest(format=m3u8-aapl).m3u8</link>
+<link>http://202.170.127.178/moneych/mnychlive.isml/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_moneychannel_zps2hfhcrwy.png</thumbnail>
 </item> 
 
 <item>
 <title>NBT TV</title>
-<link>http://49.231.20.63:8158/FreeTVChannel/StreamService/SD/NBT/heve.m3u8</link>
+<link>http://202.43.34.234:1935/11/s1/chunklist.m3u8?wowzasessionid=793909446</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_nbttv_zpst5tjx4yk.png</thumbnail>
 </item> 
 
 <item>
 <title>NATION TV</title>
-<link>http://61.47.34.37/nation/nationlive.isml/manifest(format=m3u8-aapl).m3u8</link>
+<link>http://111.223.55.102/nation/nationlive.isml/QualityLevels(672000)/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_nationtv_zps97f6zue8.png</thumbnail>
 </item> 
 
 <item>
-<title>NOW 26</title>
-<link>http://49.231.20.70:8158/FreeTVChannel/StreamService/SD/NOW/heve.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_now26_zpsoy5umhf8.png</thumbnail>
-</item>
-
-<item>
 <title>ONEHD TV</title>
-<link>rtmp://202.142.220.224:1935/gmmone playpath=gmmone swfUrl=http://www.onehd.net//jwplayer/player.swf pageUrl=http://www.onehd.net/live</link>
+<link>http://tea3xe87bf2qr8g6.cdn.ipplaybox.tv/smdtv/31_onehd/chunklist_w414142967.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_onetv_zpsmbraxf2x.png</thumbnail>
 </item>
 
@@ -192,15 +108,9 @@
 
 <item>
 <title>SABAIDEE TV</title>
-<link>http://stream.rs.co.th/sbd-low/index.m3u8</link>
+<link>http://stream.rs.co.th/sbd-hi/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_sabaideetv_zpsxcfcifkj.png</thumbnail>
 </item>
-
-<item>
-<title>SMART TV</title>
-<link>http://111.223.36.5/tp_smart_tv.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_smarttv_zpsmpahf2gc.png</thumbnail>
-</item> 
 
 <item>
 <title>THAI PBS</title>
@@ -210,9 +120,15 @@
 
 <item>
 <title>TRUE4U TV</title>
-<link>http://49.231.20.77:8158/FreeTVChannel/StreamService/SD/TRUE4U/heve.m3u8</link>
+<link>$doregex[m3u8]</link>
+<regex>
+	<name>m3u8</name>
+	<expres>file: '(.*?)',</expres>
+	<page>http://ddiptv.com/freelive.php?id=&amp;q=27156&amp;hits=1</page>
+  <referer>http://ddiptv.com/freelive.php?id=&amp;q=27156&amp;hits=1</referer>
+</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_true4utv_zpsgbudj3vr.png</thumbnail>
-</item>http://49.231.20.77:8158/FreeTVChannel/StreamService/SD/TRUE4U/heve.m3u8
+</item>
 
 <item>
 <title>TCC TV</title>
@@ -222,7 +138,7 @@
 
 <item>
 <title>TNN 24</title>
-<link>http://49.231.20.64:8158/FreeTVChannel/StreamService/SD/TNN/heve.m3u8</link>
+<link>http://111.223.36.3/tp_tnn24.m3u8?bandwidth=956</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tnn24_zpszwyyxrvm.png</thumbnail>
 </item> 
 
@@ -245,12 +161,6 @@
 </item> 
 
 <item>
-<title>THAI MUSLIM TV</title>
-<link>rtmp://radio2.thaidhost.com:8888/muslimonair2 playpath=live swfUrl=http://html.login.in.th/flashstreaming/player.swf pageUrl=http://www.tmtv.asia/</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tvmuslim_zpsbhst0hxm.png</thumbnail>
-</item>
-
-<item>
 <title>VLIKE CHANNEL</title>
 <link>rtmp://livestream.voicetv.co.th:1935/live-edge playpath=voicetv_360p swfUrl=http://live.voicetv.co.th/player/osmf/StrobeMediaPlayback.swf pageUrl=http://live.voicetv.co.th/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_vlikechannel_zpsxecvhsos.png</thumbnail>
@@ -258,14 +168,8 @@
 
 <item>
 <title>VOICE TV</title>
-<link>http://49.231.20.75:8158/FreeTVChannel/StreamService/SD/VOICETV/heve.m3u8</link>
+<link>http://livestream.voicetv.co.th/live-edge/voicetv_360p/chunklist_w1360777989.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_voicetv_zpsgoqixurz.png</thumbnail>
-</item>
-
-<item>
-<title>WHITE CHANNEL</title>
-<link>http://live4.netdesignhost.com/whitechannellive/whitechannellive2/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_whitechannel_zpslja96r6j.png</thumbnail>
 </item>
 
 <item>
@@ -273,12 +177,6 @@
 <link>http://122.155.180.125/workpoint/_definst_/workpoint_270p/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_workpointtv_zpssw5jf0yw.png</thumbnail>
 </item>  
-
-<item>
-<title>YATEEM TV</title>
-<link>http://radio2.thaidhost.com:8888/muslimonair1/live/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_yateemtv_zpsmcytnw4g.png</thumbnail>
-</item> 
 
 <item>
 <title>YOU CHANNEL</title>
