@@ -285,3 +285,17 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
 <thumbnail>https://s28.postimg.org/9n6hyhfbx/SBS.pn</thumbnail>
 </item>
+
+<item>
+<title>KBS 1</title>
+<link>http://tinyurl.com/zfmanuh|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
+<thumbnail>https://s28.postimg.org/9n6hyhfbx/SBS.pn</thumbnail>
+</item>
+
+<item>
+<title>KBS 2</title>
+<link>http://tinyurl.com/zpl8x5q|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s27.postimg.org/gmft3c66b/tvv.jpg</thumbnail>
+<thumbnail>https://s28.postimg.org/9n6hyhfbx/SBS.pn</thumbnail>
+</item>
