@@ -43,6 +43,12 @@
 </item>
 
 <item>
+<title>TV3</title>
+<link>http://tinyurl.com/zkqqo9c|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
+<item>
 <title>TV3 - Malaysia VPN Required</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051142878</link>
     <regex>
@@ -71,6 +77,12 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
+<item>
+<title>NTV7</title>
+<link>http://tinyurl.com/zb4kdne|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 </item>
 
 <item>
@@ -105,6 +117,12 @@ def GetLSProData(page_data, Cookie_Jar, m):
 </item>
 
 <item>
+<title>TV9</title>
+<link>http://tinyurl.com/gn9d9gh|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+</item>
+
+<item>
 <title>TV9 - Malaysia VPN Required</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051205088</link>
     <regex>
@@ -133,6 +151,12 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <page></page>
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+</item>
+
+<item>
+<title>8TV</title>
+<link>http://tinyurl.com/jcgucxe|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 </item>
 
 <item>
