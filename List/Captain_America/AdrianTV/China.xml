@@ -6,31 +6,31 @@
 
 <item>
 <title>CCTV-2</title>
-<link>http://live.g3proxy.lecloud.com/gslb?stream_id=cctv2HD_1800&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1009&amp;format=letv&expect=1|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=10002_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-3</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-3/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=10003_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-4</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-4/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=10004_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-5</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=10005_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-5+</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8</link>
+<link>http://gslbserv.itv.cmvideo.cn/HDcctv5plus.m3u8?authCode=07110409322147352675&amp:stbId=006001FF0018120000060019F0D496A1&amp:Contentid=7680777599813046442&amp:mos=jbjhhzstsl&amp:livemode=1&amp:channel-id=wasusyt|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
