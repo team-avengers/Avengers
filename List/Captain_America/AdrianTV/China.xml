@@ -36,19 +36,19 @@
 
 <item>
 <title>CCTV-6</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-6/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=10006_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-7</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-7/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=10007_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-8</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-8/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=10008_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
@@ -60,43 +60,37 @@
 
 <item>
 <title>CCTV-9</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-9/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=10009_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-10</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-10/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=100010_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-11</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-11/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=100011_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-12</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-12/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=100012_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-13</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=100013_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
 <item>
 <title>CCTV-14</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
-</item>
-
-<item>
-<title>CCTV-15</title>
-<link>http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8</link>
+<link>http://tv.microsoft.sd.cn/sdtv.m3u8?id=100014_2000|User-Agent=Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X; en-us) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/cctv_zpsmiz71qjj.png</thumbnail>
 </item>
 
