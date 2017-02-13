@@ -6,7 +6,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
-<item>
+
 <title>TV1 - Malaysia VPN Required</title>
  <link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10149</link>
   <regex>
@@ -27,7 +27,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
-<item>
+
 <title>TV2 - Malaysia VPN Required</title>
  <link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10148</link>
   <regex>
@@ -48,7 +48,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
-<item>
+
 <title>TV3 - Malaysia VPN Required</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051142878</link>
     <regex>
@@ -85,7 +85,7 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 </item>
 
-<item>
+
 <title>NTV7 - Malaysia VPN Required</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051225896</link>
     <regex>
@@ -122,7 +122,7 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
 </item>
 
-<item>
+
 <title>TV9 - Malaysia VPN Required</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051205088</link>
     <regex>
@@ -159,7 +159,7 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 </item>
 
-<item>
+
 <title>8TV - Malaysia VPN Required</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051221556</link>
     <regex>
@@ -204,11 +204,13 @@ def GetLSProData(page_data, Cookie_Jar, m):
   </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
 </item>
+
 <item>
 <title>AL-HIJRAH</title>
 <link>http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/chunklist_b576000_slen.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
 </item>
+
 <item>
 <title>TVi</title>
 <link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10150</link>
@@ -224,16 +226,19 @@ def GetLSProData(page_data, Cookie_Jar, m):
 </regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
 </item>
+
 <item>
 <title>MARA TV</title>
 <link>http://stream4.1malaysiaiptv.com:1935/mylive/smil:maratv_all.smil/chunklist_w1395671906_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
 </item>
+
 <item>
 <title>BERNAMA TV</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w565722189_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
 </item>
+
 <item>
 <title>AKSI SUKAN</title>
 <link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10154</link>
@@ -250,19 +255,19 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
 </item>
 
-<item>
+
 <title>LIGA SUPER MALAYSIA - LIVE GAMES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://my2liveflash-lh.akamaihd.net/z/my2liveflash_my@30545/manifest.f4m?hdcore=2.10.3&amp;g=LWDJMNJWQIGA&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
 <thumbnail>https://www.dropbox.com/s/sdwv2zmqc5la4vf/Logo-Liga-Super-Malaysia-2016.png?dl=1</thumbnail>
 </item>
 
-<item>
+
 <title>AFC CUP - LIVE GAMES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://uniliveflash-lh.akamaihd.net/z/unilive_1@86102/manifest.f4m?hdcore=2.10.3&amp;g=PBENUXUVQQGX&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
 <thumbnail>https://s31.postimg.org/xpdcy1amz/a_f_c_cup_2.jpg</thumbnail>
 </item>
 
-<item>
+
 <title>PIALA MALAYSIA - LIVE GAMES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://my1liveflash-lh.akamaihd.net/z/my1liveflash_my@30541/manifest.f4m?hdcore=2.10.3&amp;g=WIHBUVPTOBCK&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
 <thumbnail>https://s31.postimg.org/5c1299wzf/642bc95563639_5625446e19caf.jpg</thumbnail>
