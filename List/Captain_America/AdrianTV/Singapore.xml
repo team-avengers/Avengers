@@ -108,3 +108,7 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png</thumbnail>
 </item>
 
+<item>
+<title>TEST</title>
+<link>plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/253471&amp;name=TEST</link>
+</item>
