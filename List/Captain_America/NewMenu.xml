@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B]=== [COLOR pink]WORLD O[/COLOR][COLOR cyan]F SPORTS[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]WORLD O[/COLOR][COLOR cyan]F SPORTS[/COLOR] •••[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
 <jsonrpc>plugin://plugin.video.adriansports/?url=sss&amp;mode=None&amp;name=AdrianSports</jsonrpc>
@@ -9,14 +9,14 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR pink]LIVE[/COLOR][COLOR cyan] EVENT[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]LIVE[/COLOR][COLOR cyan] EVENT[/COLOR] •••[/B]</title>
 <thumbnail>https://s27.postimg.org/3killku8j/liveevent.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
 <externallink>http://tombraiderbuilds.co.uk/addon/liveevents/liveevents.txt</externallink>
 </item>
 
-<title>[B]=== [COLOR pink]PREMIUM[/COLOR][COLOR cyan] CHANNELS[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]PREMIUM[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s29.postimg.org/aj9wrk50n/PM_LOGO.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -24,7 +24,7 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR pink]LIVE SPO[/COLOR][COLOR cyan]RTS 365[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]LIVE SPO[/COLOR][COLOR cyan]RTS 365[/COLOR] •••[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
@@ -32,7 +32,7 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR pink]INDONESIA[/COLOR][COLOR cyan] CHANNELS[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]INDONESIA[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s24.postimg.org/cpe9mt491/idn.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -40,7 +40,7 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR pink]MALAYSIA[/COLOR][COLOR cyan] CHANNELS[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]MALAYSIA[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s29.postimg.org/padgkxw8n/mys.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR pink]SINGAPORE[/COLOR][COLOR cyan] CHANNELS[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]SINGAPORE[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s27.postimg.org/uufsdqlcz/sgp.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -56,7 +56,7 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR pink]CHINA[/COLOR][COLOR cyan] CHANNELS[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]CHINA[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s30.postimg.org/x3495nc8x/chn.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
@@ -64,7 +64,7 @@
 </item>
 
 <item>
-<title>[B]=== [COLOR pink]THAILAND[/COLOR][COLOR cyan] CHANNELS[/COLOR] ===[/B]</title>
+<title>[B]••• [COLOR pink]THAILAND[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s23.postimg.org/qzc8pseij/tha.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
