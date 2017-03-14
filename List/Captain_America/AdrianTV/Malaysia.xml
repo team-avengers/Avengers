@@ -193,16 +193,7 @@ def GetLSProData(page_data, Cookie_Jar, m):
 
 <item>
 <title>RTM PARLIMEN</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10152</link>
-<regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10152</page>
-    <referer>http://rtm-player.glueapi.io/f/10152</referer>
-    <agent>Mozilla/5.0</agent>
-    <accept>*/*</accept>
-    <cookieJar></cookieJar>
-  </regex>
+<link>http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
 </item>
 
@@ -214,17 +205,7 @@ def GetLSProData(page_data, Cookie_Jar, m):
 
 <item>
 <title>TVi</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10150</link>
-<regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10150</page>
-    <referer>http://rtm-player.glueapi.io/f/10150</referer>
-    <accept>*/*</accept>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <x-req>ShockwaveFlash/21.0.0.242</x-req>
-    <cookieJar></cookieJar>
-</regex>
+<link>http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
 </item>
 
@@ -239,23 +220,6 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w565722189_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
 </item>
-
-<item>
-<title>AKSI SUKAN</title>
-<link>$doregex[m3u8]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25&amp;Referer=http://cdn-rtm-player.gluempsapp.com/105/10154</link>
-<regex>
-    <name>m3u8</name>
-    <expres>file="([^\"]+)"</expres>
-    <page>http://rtm-player.glueapi.io/f/10154</page>
-    <referer>http://rtm-player.glueapi.io/f/10154</referer>
-    <accept>*/*</accept>
-    <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-    <x-req>ShockwaveFlash/21.0.0.242</x-req>
-    <cookieJar></cookieJar>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
-</item>
-
 
 <title>LIGA SUPER MALAYSIA - LIVE GAMES</title>
 <link>plugin://plugin.video.f4mTester/?url=http://my2liveflash-lh.akamaihd.net/z/my2liveflash_my@30545/manifest.f4m?hdcore=2.10.3&amp;g=LWDJMNJWQIGA&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
