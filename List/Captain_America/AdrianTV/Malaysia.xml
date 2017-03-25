@@ -221,19 +221,32 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
 </item>
 
-<title>LIGA SUPER MALAYSIA - LIVE GAMES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://my2liveflash-lh.akamaihd.net/z/my2liveflash_my@30545/manifest.f4m?hdcore=2.10.3&amp;g=LWDJMNJWQIGA&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
-<thumbnail>https://www.dropbox.com/s/sdwv2zmqc5la4vf/Logo-Liga-Super-Malaysia-2016.png?dl=1</thumbnail>
+<item>
+<title>SPECIAL 1</title>
+<link>http://go.layarku.tv/warna.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
 </item>
 
-
-<title>AFC CUP - LIVE GAMES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://uniliveflash-lh.akamaihd.net/z/unilive_1@86102/manifest.f4m?hdcore=2.10.3&amp;g=PBENUXUVQQGX&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
-<thumbnail>https://s31.postimg.org/xpdcy1amz/a_f_c_cup_2.jpg</thumbnail>
+<item>
+<title>SPECIAL 2</title>
+<link>http://go.layarku.tv/mustikahd.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
 </item>
 
+<item>
+<title>SPECIAL 3</title>
+<link>http://go.layarku.tv/oasis.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
+</item>
 
-<title>PIALA MALAYSIA - LIVE GAMES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://my1liveflash-lh.akamaihd.net/z/my1liveflash_my@30541/manifest.f4m?hdcore=2.10.3&amp;g=WIHBUVPTOBCK&amp;swf=http://dpndczlul8yjf.cloudfront.net/resources/as3_vp_player_2.4.16.2.0.swf</link>
-<thumbnail>https://s31.postimg.org/5c1299wzf/642bc95563639_5625446e19caf.jpg</thumbnail>
+<item>
+<title>SPECIAL 4</title>
+<link>http://go.layarku.tv/ria.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
+</item>
+
+<item>
+<title>SPECIAL 5</title>
+<link>http://go.layarku.tv/prima.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
 </item>
