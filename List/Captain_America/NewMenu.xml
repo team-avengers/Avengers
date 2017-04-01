@@ -10,11 +10,19 @@
 
 <item>
 <title>[B]••• [COLOR pink]LIVE[/COLOR][COLOR cyan] EVENT[/COLOR] •••[/B]</title>
+<link>ignorme</link>
+<premium>True</premium>
+<jsonrpc>plugin://plugin.video.live.streamspro/?url=http://adriansports.net16.net/source/live-events.txt$$LSProEncKey=adriansports&amp;mode=1&amp;name=LIVE</jsonrpc>
+<thumbnail>https://s27.postimg.org/3killku8j/liveevent.jpg</thumbnail>
+<fanart>https://s16.postimg.org/llicg3lad/fanart1.png</fanart>
+</item>
+
 <thumbnail>https://s27.postimg.org/3killku8j/liveevent.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
 <externallink>http://tombraiderbuilds.co.uk/addon/liveevents/liveevents.txt</externallink>
-</item>
+
+
 
 <title>[B]••• [COLOR pink]PREMIUM[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s29.postimg.org/aj9wrk50n/PM_LOGO.jpg</thumbnail>
