@@ -1,6 +1,6 @@
 <item>
 <title>ANTV</title>
-<link>https://livestream-hybrid.akamaized.net/live/smil:antv.smil/master|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>https://livestream-hybrid.akamaized.net/live/smil:antv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
 </item>
 
@@ -48,7 +48,7 @@
 
 <item>
 <title>INDOSIAR</title>
-<link>https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/master|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
 </item>
 
@@ -66,7 +66,7 @@
 
 <item>
 <title>KOMPAS TV</title>
-<link>https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/master|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_kompastv_zpspbla9f1l.png</thumbnail>
 </item>
 
@@ -138,19 +138,19 @@
 
 <item>
 <title>TRANS 7</title>
-<link>https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/master|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_7_zpsn7frpupf.png</thumbnail>
 </item>
 
 <item>
 <title>TRANS TV</title>
-<link>https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/master|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
 </item>
 
 <item>
 <title>TV ONE</title>
-<link>https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/master|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvone_zps2ntt5ox4.png</thumbnail>
 </item>
 
