@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>ASTRO WARNA</title>
+<link>http://go.layarku.tv/warna.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO MUSTIKA</title>
+<link>http://go.layarku.tv/mustikahd.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO OASIS</title>
+<link>http://go.layarku.tv/oasis.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO RIA</title> -- https://www.layarperak.tv/media/riar2itv.m3u8
+<link>http://go.layarku.tv/ria.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO PRIMA</title>
+<link>http://go.layarku.tv/prima.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO AEC</title>
+<link>http://playback02.aotg-video.astro.com.my/AOTGHLS/master_AECAPP.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
 <title>TV1</title>
 <link>https://goo.gl/bghahK|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
@@ -48,71 +84,15 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
-
-<title>TV3 - Malaysia VPN Required</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051142878</link>
-    <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('http://tv3flashsecure-lh.akamaihd.net/z/tv3flash_sp@392287/manifest.f4m?hdnea=$doregex[token]')</expres>
-    <page></page>
-  </regex>
-<regex>
-<name>token</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data, Cookie_Jar, m):
-	import requests
-	import re
-	session = requests.session()
-	headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4",
-			   "Referer": "http://www.tonton.com.my/login",
-			   "Connection": "keep-alive"}
-	r = session.get('http://www.tonton.com.my/vindicia/playerOTP?id=J3ZmNmeDpV1EMWlR6YJU_YDCqKbh_bSg&account_id=067dcc18-d9ad-0904-95e4-4d7e8d63cb4c', headers=headers)
-	token = re.findall(r'"token":"(.*?)"', r.text)[0].replace('\/', '/')
-	r = session.get(token, headers=headers)
-	headers = {'Referer': 'http://player.ooyala.com/static/cacheable/a749e376b1fadc6784b96bd76a37692d/player_v2.swf?player=dde0012b6dcc4dc7b26306bdaff0dce2',
-			   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4'}
-	r = session.get('http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=J3ZmNmeDpV1EMWlR6YJU_YDCqKbh_bSg&video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt', headers=headers)
-	return r.text+'&hdcore=2.10.3&g=SWEQGAKKWKPS'
-]]></expres>
-<page></page>
-</regex>
+<item>
+<title>TV3 - BACKUP</title>
+<f4m>https://www.layarperak.tv/media/tv3itv.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
 <item>
 <title>NTV7</title>
 <link>http://go.layarku.tv/ntv7m.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
-</item>
-
-
-<title>NTV7 - Malaysia VPN Required</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051225896</link>
-    <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('http://ntv7flashsecure-lh.akamaihd.net/z/ntv7flash_sp@392290/manifest.f4m?hdnea=$doregex[token]')</expres>
-    <page></page>
-  </regex>
-<regex>
-<name>token</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data, Cookie_Jar, m):
-	import requests
-	import re
-	session = requests.session()
-	headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4",
-			   "Referer": "http://www.tonton.com.my/login",
-			   "Connection": "keep-alive"}
-	r = session.get('http://www.tonton.com.my/vindicia/playerOTP?id=c0aGNmeDqMkuwBzt5byiz-T1dCeMA7sB&account_id=067dcc18-d9ad-0904-95e4-4d7e8d63cb4c', headers=headers)
-	token = re.findall(r'"token":"(.*?)"', r.text)[0].replace('\/', '/')
-	r = session.get(token, headers=headers)
-	headers = {'Referer': 'http://player.ooyala.com/static/cacheable/a749e376b1fadc6784b96bd76a37692d/player_v2.swf?player=dde0012b6dcc4dc7b26306bdaff0dce2',
-			   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4'}
-	r = session.get('http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=c0aGNmeDqMkuwBzt5byiz-T1dCeMA7sB&video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt', headers=headers)
-	return r.text+'&hdcore=2.10.3&g=LLQJJEGYCCWK'
-]]></expres>
-<page></page>
-</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 </item>
 
@@ -123,71 +103,9 @@ http://c.q8kk.com/qtv.php?id=mltv9
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
 </item>
 
-
-<title>TV9 - Malaysia VPN Required</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051205088</link>
-    <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('http://tv9flashsecure-lh.akamaihd.net/z/tv9flash_sp@392291/manifest.f4m?hdnea=$doregex[token]')</expres>
-    <page></page>
-  </regex>
-<regex>
-<name>token</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data, Cookie_Jar, m):
-	import requests
-	import re
-	session = requests.session()
-	headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4",
-			   "Referer": "http://www.tonton.com.my/login",
-			   "Connection": "keep-alive"}
-	r = session.get('http://www.tonton.com.my/vindicia/playerOTP?id=U5aWNmeDqtZM4iw2BCEnjB9A0KHdntmZ&account_id=067dcc18-d9ad-0904-95e4-4d7e8d63cb4c', headers=headers)
-	token = re.findall(r'"token":"(.*?)"', r.text)[0].replace('\/', '/')
-	r = session.get(token, headers=headers)
-	headers = {'Referer': 'http://player.ooyala.com/static/cacheable/a749e376b1fadc6784b96bd76a37692d/player_v2.swf?player=dde0012b6dcc4dc7b26306bdaff0dce2',
-			   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4'}
-	r = session.get('http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=U5aWNmeDqtZM4iw2BCEnjB9A0KHdntmZ&video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt', headers=headers)
-	return r.text+'&hdcore=2.10.3&g=LBQNKIJKKTUP'
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
-</item>
-
 <item>
 <title>8TV</title>
 <link>http://go.layarku.tv/8tvm.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
-</item>
-
-
-<title>8TV - Malaysia VPN Required</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[encodedurl]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4&amp;X-Requested-With=ShockwaveFlash/22.0.0.192&amp;Referer=http://www.tonton.com.my/liveChannel?id=1051221556</link>
-    <regex>
-    <name>encodedurl</name>
-    <expres>$pyFunction:urllib.quote_plus('http://8tvflashsecure-lh.akamaihd.net/z/8tvflash_sp@392288/manifest.f4m?hdnea=$doregex[token]')</expres>
-    <page></page>
-  </regex>
-<regex>
-<name>token</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data, Cookie_Jar, m):
-	import requests
-	import re
-	session = requests.session()
-	headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4",
-			   "Referer": "http://www.tonton.com.my/login",
-			   "Connection": "keep-alive"}
-	r = session.get('http://www.tonton.com.my/vindicia/playerOTP?id=FnaGNmeDqLbwHR5rVFvAXU8XFOBcqdYc&account_id=067dcc18-d9ad-0904-95e4-4d7e8d63cb4c', headers=headers)
-	token = re.findall(r'"token":"(.*?)"', r.text)[0].replace('\/', '/')
-	r = session.get(token, headers=headers)
-	headers = {'Referer': 'http://player.ooyala.com/static/cacheable/a749e376b1fadc6784b96bd76a37692d/player_v2.swf?player=dde0012b6dcc4dc7b26306bdaff0dce2',
-			   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4'}
-	r = session.get('http://player.ooyala.com/sas/akamai_edge_auth_token?embed_code=FnaGNmeDqLbwHR5rVFvAXU8XFOBcqdYc&video_pcode=owMjgyOkSbJagb4ozVY_03UrHYLt', headers=headers)
-	return r.text+'&hdcore=2.10.3&g=RDNHIGOCEKBX'
-]]></expres>
-<page></page>
-</regex>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 </item>
 
@@ -219,34 +137,4 @@ def GetLSProData(page_data, Cookie_Jar, m):
 <title>BERNAMA TV</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w565722189_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
-</item>
-
-<item>
-<title>SPECIAL 1</title>
-<link>http://go.layarku.tv/warna.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
-</item>
-
-<item>
-<title>SPECIAL 2</title>
-<link>http://go.layarku.tv/mustikahd.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
-</item>
-
-<item>
-<title>SPECIAL 3</title>
-<link>http://go.layarku.tv/oasis.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
-</item>
-
-<item>
-<title>SPECIAL 4</title>
-<link>http://go.layarku.tv/ria.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
-</item>
-
-<item>
-<title>SPECIAL 5</title>
-<link>http://go.layarku.tv/prima.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s15.postimg.org/7qns30cbf/special.jpg</thumbnail>
 </item>
