@@ -1,42 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>ASTRO WARNA</title>
-<link>http://go.layarku.tv/warna.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO MUSTIKA</title>
-<link>http://go.layarku.tv/mustikahd.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO OASIS</title>
-<link>http://go.layarku.tv/oasis.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO RIA</title> -- https://www.layarperak.tv/media/riar2itv.m3u8
-<link>http://go.layarku.tv/ria.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO PRIMA</title>
-<link>http://go.layarku.tv/prima.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
-</item>
-
-<item>
-<title>ASTRO AEC</title>
-<link>http://playback02.aotg-video.astro.com.my/AOTGHLS/master_AECAPP.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
-</item>
-
-<item>
 <title>TV1</title>
 <link>https://goo.gl/bghahK|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
@@ -137,4 +101,41 @@ http://c.q8kk.com/qtv.php?id=mltv9
 <title>BERNAMA TV</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w565722189_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
+</item>
+
+
+<item>
+<title>ASTRO WARNA</title>
+<link>http://go.layarku.tv/warna.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO MUSTIKA</title>
+<link>http://go.layarku.tv/mustikahd.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO OASIS</title>
+<link>http://go.layarku.tv/oasis.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO RIA</title> -- https://www.layarperak.tv/media/riar2itv.m3u8
+<link>http://go.layarku.tv/ria.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO PRIMA</title>
+<link>http://go.layarku.tv/prima.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO AEC</title>
+<link>http://playback02.aotg-video.astro.com.my/AOTGHLS/master_AECAPP.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s16.postimg.org/wfsus5krp/astro.png</thumbnail>
 </item>
