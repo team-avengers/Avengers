@@ -1,13 +1,13 @@
 <item>
 <title>ANTV</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:antv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
+<thumbnail>https://s12.postimg.org/os7lzrinh/ID_antv_zps5qe3o8qy.png</thumbnail>
 </item>
 
 <item>
 <title>BERITA SATU</title>
 <link>plugin://plugin.video.f4mTester/?url=http://edge.nim.mivo.tv/wh76pzref44u53o6/beritasatu_all/playlist.m3u8?wmsAuthSign=$doregex[tok]&amp;streamtype=HLS|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
+<thumbnail>https://s14.postimg.org/of2e6viz5/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
 <item>
@@ -19,7 +19,7 @@
 	<page>http://www.beritasatu.com/playstream.php?channel=english</page>
   <referer>http://www.beritasatu.com/playstream.php?channel=english</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
+<thumbnail>https://s14.postimg.org/of2e6viz5/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
 <item>
@@ -31,126 +31,126 @@
 	<page>http://www.beritasatu.com/playstream.php?channel=world</page>
   <referer>http://www.beritasatu.com/playstream.php?channel=world</referer>
 </regex>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
+<thumbnail>https://s14.postimg.org/of2e6viz5/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
 <item>
 <title>CNN INDONESIA</title>
 <link>http://live.cnnindonesia.com/livecnn/cnn_live_tv1.sdp/playlist.m3u8</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/cnn_zpsf3dtporx.png</thumbnail>
+<thumbnail>https://s22.postimg.org/fzwj0xa8x/cnn_zpsf3dtporx.png</thumbnail>
 </item>
 
 <item>
 <title>GLOBAL TV</title>
 <link>http://cdn.metube.id/videom3u8/Y0NzL67PrNZPPNWPsGMv/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_global_tv_zpsqptddjo9.png</thumbnail>
+<thumbnail>https://s16.postimg.org/4q0d4atqd/ID_global_tv_zpsqptddjo9.png</thumbnail>
 </item>
 
 <item>
 <title>INDOSIAR</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
+<thumbnail>https://s18.postimg.org/ky1dyy4kp/ID_indosiar_zpsnlwwccnu.png</thumbnail>
 </item>
 
 <item>
 <title>JEK TV</title>
 <link>rtmp://182.253.193.35:1935/live/myStream1</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jektv_zpsdlmiao7f.png</thumbnail>
+<thumbnail>https://s4.postimg.org/4dqlv66kd/ID_jektv_zpsdlmiao7f.png</thumbnail>
 </item>
 
 <item>
 <title>JOGJA TV</title>
 <link>rtmp://202.169.224.206/live playpath=jogjatv swfUrl=http://streaming.jogjamedianet.com/jwplayer.swf pageUrl=http://jogjatv.tv/live-streaming/</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/MR%20Network%20TV/jogjatv_zpseylfsdy9.png</thumbnail>
+<thumbnail>https://s29.postimg.org/ghdmec0hj/jogjatv_zpseylfsdy9.png</thumbnail>
 </item>
 
 <item>
 <title>KOMPAS TV</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_kompastv_zpspbla9f1l.png</thumbnail>
+<thumbnail>https://s29.postimg.org/qbwrytn2v/ID_kompastv_zpspbla9f1l.png</thumbnail>
 </item>
 
 <item>
 <title>METRO TV</title>
 <link>http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1078060783_b1300000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_metro_tv_zpsfy2zhqxw.png</thumbnail>
+<thumbnail>https://s18.postimg.org/jpxctsumh/ID_metro_tv_zpsfy2zhqxw.png</thumbnail>
 </item>
 
 <item>
 <title>MNC TV</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
+<link>http://cdn.metube.id/videom3u8/IUiK1dQBlhVgBd0c4Ehd/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s3.postimg.org/w59b4n82b/ID_mnc_tv_zpshi58jhma.png</thumbnail>
 </item>
 
 <item>
 <title>NET.</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:nettv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nettv_zpskioucxna.png</thumbnail>
+<thumbnail>https://s14.postimg.org/u6nwatvwh/ID_nettv_zpskioucxna.png</thumbnail>
 </item>
 
 <item>
 <title>O CHANNEL</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ochannel_zpsh4arpcai.png</thumbnail>
+<thumbnail>https://s2.postimg.org/6focofx7t/ID_ochannel_zpsh4arpcai.png</thumbnail>
 </item>
 
 <item>
 <title>RCTI</title>
-<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
+<link>http://cdn.metube.id/videom3u8/BNJz9xRPaciwuTx1NsOu/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s15.postimg.org/44u3c1por/ID_rcti_zpspbf3nrr5.png</thumbnail>
 </item>
 
 <item>
 <title>RTV</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rtv_zps7zwluxo5.png</thumbnail>
+<thumbnail>https://s1.postimg.org/7b6mlay8v/ID_rtv_zps7zwluxo5.png</thumbnail>
 </item>
 
 <item>
 <title>SCTV</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
+<thumbnail>https://s11.postimg.org/h3e7p3beb/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI NASIONAL</title>
 <link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrinasional_zpsrpwt3w2f.png</thumbnail>
+<thumbnail>https://s17.postimg.org/3x8mbvk1b/ID_tvrinasional_zpsrpwt3w2f.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI JAKARTA</title>
 <link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrijakarta_zps9idoi7ph.png</thumbnail>
+<thumbnail>https://s9.postimg.org/447jbhgen/ID_tvrijakarta_zps9idoi7ph.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI BUDAYA</title>
 <link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvribudaya_zps2xarzbez.png</thumbnail>
+<thumbnail>https://s4.postimg.org/hmofcuez1/ID_tvribudaya_zps2xarzbez.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI OLAH RAGA</title>
 <link>http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvriolahraga_zpsrrux4aqc.png</thumbnail>
+<thumbnail>https://s4.postimg.org/xm72web0t/ID_tvriolahraga_zpsrrux4aqc.png</thumbnail>
 </item>
 
 <item>
 <title>TRANS 7</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_7_zpsn7frpupf.png</thumbnail>
+<thumbnail>https://s17.postimg.org/4b6i49w7j/ID_trans_7_zpsn7frpupf.png</thumbnail>
 </item>
 
 <item>
 <title>TRANS TV</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
+<thumbnail>https://s10.postimg.org/lrtubv60p/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
 </item>
 
 <item>
 <title>TV ONE</title>
 <link>https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/master.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvone_zps2ntt5ox4.png</thumbnail>
+<thumbnail>https://s23.postimg.org/yityfzdy3/ID_tvone_zps2ntt5ox4.png</thumbnail>
 </item>
 
