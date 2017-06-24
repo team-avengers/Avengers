@@ -3,7 +3,7 @@
 <item>
 <title>TV1</title>
 <link>https://goo.gl/bghahK|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
+<thumbnail>https://s11.postimg.org/74b264u83/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 
@@ -24,7 +24,7 @@
 <item>
 <title>TV2</title>
 <link>https://goo.gl/EExJO2|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
+<thumbnail>https://s2.postimg.org/ql6wi7m8p/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
 
@@ -42,32 +42,135 @@
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
-<item>
+item>
 <title>TV3</title>
 <link>https://goo.gl/CJMCcx|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+<thumbnail>https://s29.postimg.org/5oj669z8n/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
 <item>
+<title>TV3</title>
+<link>$doregex[getUrl]|User-Agent=iPad</link>
+<regex>
+<connection>keep-alive</connection>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
+  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
+  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
+  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
+  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
+  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
+  source = requests.get(url, headers = {'Referer': 'https://beta.ustreamix.com/stream.php?id=tv3-malaysia', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  tok = re.findall('var jdtk="(.*?)"', source)[0]
+  return preurl + 'tmg.m3u8?stream=tv3-malaysia&token=' + tok
+]]></expres>
+<page>https://beta.ustreamix.com/stream.php?id=tv3-malaysia</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s29.postimg.org/5oj669z8n/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
+item>
 <title>TV3 - BACKUP</title>
 <f4m>https://www.layarperak.tv/media/tv3itv.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+<thumbnail>https://s29.postimg.org/5oj669z8n/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
 <item>
 <title>NTV7</title>
-<link>http://go.layarku.tv/ntv7m.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png</thumbnail>
+<link>$doregex[getUrl]|User-Agent=iPad</link>
+<regex>
+<connection>keep-alive</connection>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
+  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
+  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
+  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
+  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
+  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
+  source = requests.get(url, headers = {'Referer': 'https://beta.ustreamix.com/stream.php?id=ntv7-malaysia', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  tok = re.findall('var jdtk="(.*?)"', source)[0]
+  return preurl + 'tmg.m3u8?stream=ntv7-malaysia&token=' + tok
+]]></expres>
+<page>https://beta.ustreamix.com/stream.php?id=ntv7-malaysia</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s21.postimg.org/4m3vkshuf/MY_ntv7_zpsmslc5gwf.png</thumbnail>
 </item>
 
-http://c.q8kk.com/qtv.php?id=mltv9
+item>
+<title>NTV7</title>
+<link>http://go.layarku.tv/ntv7m.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>https://s21.postimg.org/4m3vkshuf/MY_ntv7_zpsmslc5gwf.png</thumbnail>
+</item>
+
 <item>
+<title>TV9</title>
+<link>$doregex[getUrl]|User-Agent=iPad</link>
+<regex>
+<connection>keep-alive</connection>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
+  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
+  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
+  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
+  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
+  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
+  source = requests.get(url, headers = {'Referer': 'https://beta.ustreamix.com/stream.php?id=tv9-malaysia', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  tok = re.findall('var jdtk="(.*?)"', source)[0]
+  return preurl + 'tmg.m3u8?stream=tv9-malaysia&token=' + tok
+]]></expres>
+<page>https://beta.ustreamix.com/stream.php?id=tv9-malaysia</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s2.postimg.org/eg5phsay1/MY_tv9_zpsvy6n5ypz.png</thumbnail>
+</item>
+
+item>
 <title>TV9</title>
 <link>http://go.layarku.tv/tv9m.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png</thumbnail>
 </item>
 
 <item>
+<title>8TV</title>
+<link>$doregex[getUrl]|User-Agent=iPad</link>
+<regex>
+<connection>keep-alive</connection>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
+  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
+  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
+  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
+  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
+  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
+  source = requests.get(url, headers = {'Referer': 'https://beta.ustreamix.com/stream.php?id=8tv-malaysia', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  tok = re.findall('var jdtk="(.*?)"', source)[0]
+  return preurl + 'tmg.m3u8?stream=8tv-malaysia&token=' + tok
+]]></expres>
+<page>https://beta.ustreamix.com/stream.php?id=8tv-malaysia</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s14.postimg.org/dde7tvtyp/MY_8tv_zpsvhm1dgc8.png</thumbnail>
+</item>
+
+item>
 <title>8TV</title>
 <link>http://go.layarku.tv/8tvm.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
@@ -76,31 +179,31 @@ http://c.q8kk.com/qtv.php?id=mltv9
 <item>
 <title>RTM PARLIMEN</title>
 <link>http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
+<thumbnail>https://s23.postimg.org/9bjr97id7/rtmparlimen_zpsu1trkjx7.png</thumbnail>
 </item>
 
 <item>
 <title>AL-HIJRAH</title>
 <link>http://tvah-cdn.mynexa.my/tvahlive/smil:tvahlivestream.smil/chunklist_b576000_slen.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
+<thumbnail>https://s11.postimg.org/e3xh51s9f/MY_alhijrah_zps7om1g57e.png</thumbnail>
 </item>
 
 <item>
 <title>TVi</title>
 <link>http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
+<thumbnail>https://s12.postimg.org/hb1e27pzx/tvi_zpsmwdrm674.png</thumbnail>
 </item>
 
 <item>
 <title>MARA TV</title>
 <link>http://stream4.1malaysiaiptv.com:1935/mylive/smil:maratv_all.smil/chunklist_w1395671906_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
+<thumbnail>https://s14.postimg.org/nalm5lqxt/maratv_zpsees3ljuu.png</thumbnail>
 </item>
 
 <item>
 <title>BERNAMA TV</title>
 <link>http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w565722189_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
+<thumbnail>https://s11.postimg.org/6bmap3seb/MY_bernamatv_zpswz7nlgor.png</thumbnail>
 </item>
 
 
