@@ -20,21 +20,12 @@ item>
 <link>http://ignoreme</link>
 <externallink>http://tombraiderbuilds.co.uk/addon/liveevents/liveevents.txt</externallink>
 
-
-
-<title>[B]••• [COLOR pink]PREMIUM[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
-<thumbnail>https://s29.postimg.org/aj9wrk50n/PM_LOGO.jpg</thumbnail>
+<item>
+<title>[B]••• [COLOR pink]SPORTS[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
+<thumbnail>https://s2.postimg.org/7if8ozca1/v0_So5h_JH.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
 <link>http://ignoreme</link>
-<externallink>http://tinyurl.com/jvyx4p7</externallink>
-</item>
-
-
-<title>[B]••• [COLOR pink]LIVE SPO[/COLOR][COLOR cyan]RTS 365[/COLOR] •••[/B]</title>
-<link>ignorme</link>
-<premium>True</premium>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=sss&amp;mode=56&amp;name=Sport365.live</jsonrpc>
-<thumbnail>https://s9.postimg.org/svifr9uyn/Q7a_S9g6_Y.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/team-avengers/Avengers/master/List/Captain_America/AdrianTV/Sports.xml</externallink>
 </item>
 
 <item>
