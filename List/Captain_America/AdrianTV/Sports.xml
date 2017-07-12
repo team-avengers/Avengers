@@ -95,13 +95,31 @@
 </item>
 
 <item>
+<title>FOX SPORTS 1 ASIA</title>
+<link>http://livetv.khaozap.com/fox_sports_1_480p.stream/playlist.m3u8|User-Agent=iPad</link>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 ASIA</title>
+<link>http://livetv.khaozap.com/fox_sports_2_480p.stream/playlist.m3u8|User-Agent=iPad</link>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 3 ASIA</title>
+<link>http://livetv.khaozap.com/fox_sports_3_480p.stream/playlist.m3u8|User-Agent=iPad</link>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
 <title>LIGA MALAYSIA SD</title>
 <link>http://my1ios-i.akamaihd.net/hls/live/219467/ios/my1liveios/master23.m3u8</link>
 <thumbnail>https://s10.postimg.org/h30dpx0k9/ligamalaysia.jpg</thumbnail>
 </item>
 
 <item>
-<title>LIGA MALAYSIA hD</title>
+<title>LIGA MALAYSIA HD</title>
 <link>http://uniliveios-i.akamaihd.net/hls/live/205906/ios/unilive/master303.m3u8</link>
 <thumbnail>https://s10.postimg.org/h30dpx0k9/ligamalaysia.jpg</thumbnail>
 </item>
