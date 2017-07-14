@@ -165,8 +165,51 @@
 <link>http://android.jibhd.com/skynet_sport_hd_720p.stream/playlist.m3u8</link>
 <thumbnail>http://s32.postimg.org/fov9nmb91/SKYNETSPORTS.jpg</thumbnail>
 </item>
+
 <item>
 <title>WWE NETWORK</title>
 <link>http://11gb.gcdn.co/live/online/tv/1503.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
 <thumbnail>http://s15.postimg.org/k748p7kjf/wwe.png</thumbnail>
+</item>
+
+<item>
+<title>ZOOM SPORTS 1</title>
+<link>http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8</link>
+<thumbnail>https://s2.postimg.org/ymafap621/zoomcartoon.png</thumbnail>
+</item>
+
+<item>
+<title>ZOOM SPORTS 2</title>
+<link>http://183.207.255.190:80/live/program/live/hdnba2/4000000/mnf.m3u8</link>
+<thumbnail>https://s2.postimg.org/ymafap621/zoomcartoon.png</thumbnail>
+</item>
+
+<item>
+<title>ZOOM SPORTS 3</title>
+<link>http://183.207.255.190:80/live/program/live/hdnba3/4000000/mnf.m3u8</link>
+<thumbnail>https://s2.postimg.org/ymafap621/zoomcartoon.png</thumbnail>
+</item>
+
+<item>
+<title>ZOOM SPORTS 4</title>
+<link>http://183.207.255.190:80/live/program/live/hdnba4/4000000/mnf.m3u8</link>
+<thumbnail>https://s2.postimg.org/ymafap621/zoomcartoon.png</thumbnail>
+</item>
+
+<item>
+<title>ZOOM SPORTS 5</title>
+<link>http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8</link>
+<thumbnail>https://s2.postimg.org/ymafap621/zoomcartoon.png</thumbnail>
+</item>
+
+<item>
+<title>ZOOM SPORTS 6</title>
+<link>http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8</link>
+<thumbnail>https://s2.postimg.org/ymafap621/zoomcartoon.png</thumbnail>
+</item>
+
+<item>
+<title>ZOOM SPORTS 7</title>
+<link>http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8</link>
+<thumbnail>https://s2.postimg.org/ymafap621/zoomcartoon.png</thumbnail>
 </item>
