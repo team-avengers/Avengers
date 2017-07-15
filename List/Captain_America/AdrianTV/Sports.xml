@@ -137,8 +137,8 @@
 </item>
 
 <item>
-<title>LIGA MALAYSIA HD</title>
-<link>http://uniliveios-i.akamaihd.net/hls/live/205906/ios/unilive/master303.m3u8</link>
+<title>LIGA MALAYSIA HD1</title>
+<link>http://uniliveios-i.akamaihd.net/hls/live/205906/ios/unilive/master303.m3u8|X-Forwarded-For=219.93.183.103</link>
 <thumbnail>https://s10.postimg.org/h30dpx0k9/ligamalaysia.jpg</thumbnail>
 </item>
 
