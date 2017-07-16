@@ -113,6 +113,32 @@
 </item>
 
 <item>
+<title>FISHING TV</title>
+<link>$doregex[getUrl]|User-Agent=iPad</link>
+<regex>
+<connection>keep-alive</connection>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
+  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
+  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
+  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
+  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
+  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
+  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fishing-tv', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  tok = re.findall('var jdtk="(.*?)"', source)[0]
+  return preurl + 'tmg.m3u8?stream=fishing-tv&token=' + tok
+]]></expres>
+<page>http://v2.ustreamix.com/stream.php?id=fishing-tv</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s14.postimg.org/ki7dejmtd/fts.jpg</thumbnail>
+</item>
+
+<item>
 <title>FOX SPORTS 1 THAI</title>
 <link>http://android.jibhd.com/fox_sports_1_480p.stream/playlist.m3u8|User-Agent=iPad</link>
 <thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
