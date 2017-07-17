@@ -157,6 +157,58 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 </item>
 
 <item>
+<title>FS1</title>
+<link>$doregex[getUrl]|User-Agent=iPad</link>
+<regex>
+<connection>keep-alive</connection>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
+  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
+  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
+  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
+  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
+  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
+  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fox-sports-1-b', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  tok = re.findall('var jdtk="(.*?)"', source)[0]
+  return preurl + 'tmg.m3u8?stream=fox-sports-1-b&token=' + tok
+]]></expres>
+<page>http://v2.ustreamix.com/stream.php?id=fox-sports-1-b</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s14.postimg.org/50wyt5zhd/foxsports.jpg</thumbnail>
+</item>
+
+<item>
+<title>FS2</title>
+<link>$doregex[getUrl]|User-Agent=iPad</link>
+<regex>
+<connection>keep-alive</connection>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
+  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
+  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
+  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
+  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
+  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
+  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=fox-sports-2', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  tok = re.findall('var jdtk="(.*?)"', source)[0]
+  return preurl + 'tmg.m3u8?stream=fox-sports-2&token=' + tok
+]]></expres>
+<page>http://v2.ustreamix.com/stream.php?id=fox-sports-2</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s14.postimg.org/50wyt5zhd/foxsports.jpg</thumbnail>
+</item>
+
+<item>
 <title>LIGA MALAYSIA SD</title>
 <link>http://my1ios-i.akamaihd.net/hls/live/219467/ios/my1liveios/master23.m3u8</link>
 <thumbnail>https://s10.postimg.org/h30dpx0k9/ligamalaysia.jpg</thumbnail>
@@ -312,7 +364,27 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 
 <item>
 <title>TSN 1</title>
-<link>http://boss-streams.com:2052/live/Embyserver2/434p3wOCFS/26557.ts</link>
+<link>$doregex[getUrl]|User-Agent=iPad</link>
+<regex>
+<connection>keep-alive</connection>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  first_ip = re.findall("x_first_ip.+?'(.*?)'", page_data)[0]
+  first_c = re.findall("x_first_c.+?'(.*?)'", page_data)[0]
+  ket2 = re.findall("ket2.+?'(.*?)'", page_data)[0]
+  first_ua = re.findall("x_first_ua.+?'(.*?)'", page_data)[0]
+  preurl = 'http://tmg.ustreamix.com/'   # here is the server url which changed most of time
+  url = preurl + 'stats.php?p=' + first_ip + '&C=' + first_c + '&Ket=' + ket2
+  source = requests.get(url, headers = {'Referer': 'http://v2.ustreamix.com/stream.php?id=tsn1', 'User-Agent': first_ua, 'Accept': '*/*'}).text
+  tok = re.findall('var jdtk="(.*?)"', source)[0]
+  return preurl + 'tmg.m3u8?stream=tsn1&token=' + tok
+]]></expres>
+<page>http://v2.ustreamix.com/stream.php?id=tsn1</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
 <thumbnail>https://s1.postimg.org/q69gnzlb3/TSN.jpg</thumbnail>
 </item>
 
