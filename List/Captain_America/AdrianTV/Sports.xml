@@ -310,38 +310,38 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 </item>
 
 <item>
-<title>SKY SPORTS 1</title>
+<title>SKY SPORTS MAIN EVENT</title>
 <link>http://11gb.gcdn.co/live/online/tv/1760.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
 <thumbnail>https://s13.postimg.org/3r58irhyv/p_Ty_N8_Oi_H_400x400.jpg</thumbnail>
 </item>
 
 <item>
-<title>SKY SPORTS 2</title>
+<title>SKY SPORTS PREMIER LEAGUE</title>
+<link>http://11gb.gcdn.co/live/online/tv/1764.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
+<thumbnail>https://s13.postimg.org/3r58irhyv/p_Ty_N8_Oi_H_400x400.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS CRICKET</title>
 <link>http://11gb.gcdn.co/live/online/tv/1761.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
 <thumbnail>https://s13.postimg.org/3r58irhyv/p_Ty_N8_Oi_H_400x400.jpg</thumbnail>
 </item>
 
 <item>
-<title>SKY SPORTS 3</title>
-<link>http://11gb.gcdn.co/live/online/tv/1762.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
-<thumbnail>https://s13.postimg.org/3r58irhyv/p_Ty_N8_Oi_H_400x400.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 4</title>
+<title>SKY SPORTS THE OPEN</title>
 <link>http://11gb.gcdn.co/live/online/tv/1763.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
-<thumbnail>https://s13.postimg.org/3r58irhyv/p_Ty_N8_Oi_H_400x400.jpg</thumbnail>
-</item>
-
-<item>
-<title>SKY SPORTS 5</title>
-<link>http://11gb.gcdn.co/live/online/tv/1764.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
 <thumbnail>https://s13.postimg.org/3r58irhyv/p_Ty_N8_Oi_H_400x400.jpg</thumbnail>
 </item>
 
 <item>
 <title>SKY SPORTS F1</title>
 <link>http://11gb.gcdn.co/live/online/tv/159.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
+<thumbnail>https://s13.postimg.org/3r58irhyv/p_Ty_N8_Oi_H_400x400.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS ACTION</title>
+<link>http://11gb.gcdn.co/live/online/tv/1762.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770</link>
 <thumbnail>https://s13.postimg.org/3r58irhyv/p_Ty_N8_Oi_H_400x400.jpg</thumbnail>
 </item>
 
