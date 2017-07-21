@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-item>
-<title>[B]••• [COLOR pink]WORLD O[/COLOR][COLOR cyan]F SPORTS[/COLOR] •••[/B]</title>
-<link>http://cypher-media.com/cypher/alpha.m3u</link>
-<thumbnail>https://s28.postimg.org/i7v6c0wtp/sports123.jpg</thumbnail>
+<item>
+<title>[B]••• [COLOR pink]ADDON CLOSED[/COLOR] •••[/B]</title>
+<link>http://</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
+<title>[B]••• [COLOR pink]BECAUSE OF SOME ASSHOLES[/COLOR] •••[/B]</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+</item>
+
+item>
 <title>[B]••• [COLOR pink]LIVE[/COLOR][COLOR cyan] EVENT[/COLOR] •••[/B]</title>
 <link>ignorme</link>
 <premium>True</premium>
@@ -20,7 +26,7 @@ item>
 <link>http://ignoreme</link>
 <externallink>http://tombraiderbuilds.co.uk/addon/liveevents/liveevents.txt</externallink>
 
-<item>
+item>
 <title>[B]••• [COLOR pink]PREMIER LEA[/COLOR][COLOR cyan]GUE PASS[/COLOR] ••• | [COLOR yellow]COMING SOON[/COLOR][/B]</title>
 <thumbnail>https://s10.postimg.org/8cfw32kfd/premier-league-pass.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -28,7 +34,7 @@ item>
 <externallink>https://</externallink>
 </item>
 
-<item>
+item>
 <title>[B]••• [COLOR pink]SPORTS[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s2.postimg.org/7if8ozca1/v0_So5h_JH.jpg</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -36,7 +42,7 @@ item>
 <externallink>https://raw.githubusercontent.com/team-avengers/Avengers/master/List/Captain_America/AdrianTV/Sports.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[B]••• [COLOR pink]INDONESIA[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s24.postimg.org/cpe9mt491/idn.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -44,7 +50,7 @@ item>
 <externallink>https://raw.githubusercontent.com/team-avengers/Avengers/master/List/Captain_America/AdrianTV/Indonesia.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[B]••• [COLOR pink]MALAYSIA[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s29.postimg.org/padgkxw8n/mys.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
@@ -52,7 +58,7 @@ item>
 <externallink>https://raw.githubusercontent.com/team-avengers/Avengers/master/List/Captain_America/AdrianTV/Malaysia.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[B]••• [COLOR pink]SINGAPORE[/COLOR][COLOR cyan] CHANNELS[/COLOR] •••[/B]</title>
 <thumbnail>https://s27.postimg.org/uufsdqlcz/sgp.png</thumbnail>
 <fanart>https://www.dropbox.com/s/fwfmnvv9tzdtdta/fanart1.png?dl=1</fanart>
